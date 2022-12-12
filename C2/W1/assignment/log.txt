@@ -1,0 +1,2 @@
+2022-12-01
+the batch size influence the accuracy of training and validation. Set up batch size that is 1 / 100 of data size is optimal.
